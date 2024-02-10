@@ -1,0 +1,140 @@
+/* box1 */
+/* creating nav bar  */
+*{
+    padding:0;
+    margin:0;
+}
+
+#navbar{
+    text-transform: capitalize;
+    margin:7px;
+    padding:30px;
+    text-align: end;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;   
+}
+a{
+    color:white;
+    text-decoration: none;
+    padding:20px;
+    font-weight: bold;
+}
+a:hover{
+    color:red;
+}
+.image{
+    background-image: url("student.jpeg");
+    background-size: cover;
+    border-radius: 40px;
+    border:2px solid black;
+    width:300px;
+    height: 500px;
+    margin-left: 300px;
+}
+.container{
+    width:1200px;
+    height: 500px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+/* styling body */
+body{
+    background-color:#3A4454;
+}
+
+/* styling heading  */
+header{
+    color:white;
+    width: 70px;
+    font-weight: bold;
+}
+
+/* applying hover effect on heading  */
+header:hover{
+    color:red;
+}
+
+/* styling h1 */
+h1{
+    text-align: center;
+    color:white;
+    text-transform: capitalize;
+    margin-bottom: 50px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+p{
+    font-size:30px;
+    font-weight:bold;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+/* box2 */
+
+.container1{
+    height: 400px;
+    width: 1000px;
+    margin-left: 200px;
+}
+
+.para1{
+    text-align: left;
+}
+.para2{
+    text-align: left;
+    
+}
+ul{
+    color:white;
+    font-size:20px;
+}
+
+/* box3 */
+#container2{
+    width:1000px;
+    height: 500px;
+    margin-left: 250px;
+}
+
+.para3{
+    font-size:20px;
+    font-weight: bold;
+}
+
+h2{
+    color:white;
+    /* margin-bottom: 30px; */
+}
+
+ul{
+    margin:30px;
+}
+
+#container3{
+    width:900px;
+    height:500px;
+    margin-left: 250px;
+}
+
+.heading{
+    margin: 10px;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+/* box4 */
+#container4{
+    width: 900px;
+    height: 500px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+ul {
+    font-size: 20px;
+}
